@@ -1,11 +1,4 @@
-Todo Lists Many Many Ways
-=========================
 
-- [X] useState
-- [X] useContext
-- [X] customHook
-- [X] mobx
-- [X] redux
-- [X] valtio
-- [X] jotai
-- [X] zustand
+LINK UTEIS
+
+ZUSTAND: https://dev.to/franklin030601/using-zustand-with-react-js-9di
